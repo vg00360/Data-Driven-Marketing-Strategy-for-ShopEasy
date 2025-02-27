@@ -51,28 +51,29 @@ ShopEasy, an online retail business, is experiencing a decline in customer engag
 - Displays key KPIs such as conversion rate, engagement rate, and customer feedback score.
 - Shows trends over time to identify peak and low-performing months.
 
-📌 *[Insert Screenshot Here]*
+![Overview Dashboard](Dashboard%20Screenshots/Overview.png)
 
 ### **2. Conversion Details**
 - Highlights conversion trends across different months and product categories.
 - Identifies drop-off stages in the customer journey.
 - Provides insights into seasonal patterns.
 
-📌 *[Insert Screenshot Here]*
+📌 ![Overview Dashboard](Dashboard%20Screenshots/Conversion%20Details.png)
 
 ### **3. Social Media Details**
 - Analyzes engagement levels for different content types.
 - Compares views, clicks, and likes across social platforms.
 - Suggests content strategies for better engagement.
 
-📌 *[Insert Screenshot Here]*
+📌 ![Overview Dashboard](Dashboard%20Screenshots/Social%20Media%20Details.png)
+
 
 ### **4. Customer Review Details**
 - Displays sentiment analysis results from customer feedback.
 - Highlights top positive and negative themes in reviews.
 - Suggests improvement areas for better customer satisfaction.
 
-📌 *[Insert Screenshot Here]*
+📌 ![Overview Dashboard](Dashboard%20Screenshots/Customer%20Review%20Details.png)
 
 ## Insights & Actionable Recommendations
 ### **1. Increase Conversion Rates**
